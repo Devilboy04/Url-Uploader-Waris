@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @WarisAliLegend
+Support Group : @WarisZone
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @WarisAliLegend
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @WarisAliLegend
+Support Group : @WarisZone
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,7 +33,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>There is No Upgrade Plan.\n\nSupport Group : @WarisZone"
     
     DOWNLOAD_START = "Trying to download your file..."
     

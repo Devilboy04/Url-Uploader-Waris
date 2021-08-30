@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @WarisZone
+🚸 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 - 𝐖𝐚𝐫𝐢𝐬 𝐀𝐥𝐢 🚸
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @WarisZone
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @WarisZone
+🚸 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 - 𝐖𝐚𝐫𝐢𝐬 𝐀𝐥𝐢 🚸
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,11 +33,11 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>There is No Upgrade Plan.\n\nSupport Group : @WarisZone"
+    UPGRADE_TEXT = "<b>There is No Upgrade Plan.\n\n🚸 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 - 𝐖𝐚𝐫𝐢𝐬 𝐀𝐥𝐢 🚸"
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "Trying to Start The Download Instiative. "
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading Started"
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
